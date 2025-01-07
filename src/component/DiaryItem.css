@@ -1,0 +1,6 @@
+.DiaryItem{
+    border: 1px solid lightgray;
+    background-color:beige;
+    width:120px;
+    margin:10px auto;
+}
